@@ -29,5 +29,5 @@ April 2026
 ## 🛠️ Structure
 Problems will be organized topic-wise for easy navigation.
 
-## 👨‍💻 Author
-- Your Name
+
+Arnav katoch
